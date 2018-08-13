@@ -1,5 +1,5 @@
 # Getting Started
-This repository can be used to reproduce results of "Word2vec applied to Recommendation: Hyperparameters Matter" by H. Caselles-Dupré, F. Lesaint and J. Royo-Letelier. The paper will be published on the 12th ACM Conference on Recommender Systems, Vancouver, Canada, 2nd-7th October 2018
+This repository can be used to reproduce results of "Word2vec applied to Recommendation: Hyperparameters Matter" by H. Caselles-Dupré, F. Lesaint and J. Royo-Letelier. The paper will be published on the 12th ACM Conference on Recommender Systems, Vancouver, Canada, 2nd-7th October 2018.
 
 ## Usage with Docker [recommended]
 
