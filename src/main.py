@@ -90,7 +90,7 @@ def run(train, test,
 
     print "took %1.2f minutes." % ((time.time()-t)/60.)
 
-    return {'HR@%i' % k: 1000*hrk_score, 'NDCG@%i' % k: ndcg_score}
+    return {'HR@%i' % k: k*100*hrk_score, 'NDCG@%i' % k: ndcg_score}
 
 if __name__ == "__main__":
 
